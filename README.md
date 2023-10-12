@@ -6,7 +6,7 @@ mofai
 
 ### Preparation
 
-- Buy [VOICEVOX](https://voicevox.hiroshiba.jp/)
+- Install [VOICEVOX](https://voicevox.hiroshiba.jp/)
 - Subscribe [ChatGPT](https://openai.com/)
 - Get API Key from [ChatGPT Account](https://platform.openai.com/account/api-keys)
 - Set API Key to `.env` file
