@@ -1,0 +1,8 @@
+.vscode
+node_modules
+*.wav
+model/*
+!model/.gitkeep
+.env.*
+.env
+build

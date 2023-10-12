@@ -1,0 +1,28 @@
+{
+  "name": "mofai",
+  "private": true,
+  "version": "0.0.1",
+  "description": "My Only Friend AI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nekobato/mofai.git"
+  },
+  "scripts": {
+    "start": "ts-node ./script/index.ts"
+  },
+  "dependencies": {
+    "audio-buffer-from": "^1.1.1",
+    "audio-play": "^2.3.1",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.1.1",
+    "mic": "^2.1.2",
+    "node-fetch": "2.6.6",
+    "openai": "^4.11.1",
+    "play-sound": "^1.1.6",
+    "vosk": "^0.3.39"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
